@@ -1,0 +1,49 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Cristian Swift <br> Crisjay01@gmail.com"
+date: "08 March 2023"
+output: 
+  ioslides_presentation:
+    widescreen: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+
+
+## About Me | Personal
+
+- I was born in Seattle, Washington State.
+- My favorite animal is the Sperm Whale (apex predator!)
+- My favorite food is Tater Tot Casserole made by my mother 
+
+
+## About Me | Academic
+
+- Undergraduate institution: University of Washington
+- Undergraduate major(s): Oceanography, Aquatic Fisheries Sciences
+
+
+# Data science
+
+## Course topics | 3 things I enjoyed learning about
+
+1. I really enjoyed learning rmd, I am going to continue to use it for sure!
+2. Github in Rstudio, makes using github more intuitive.
+3. Databases, I wish I could have attended all the lectures on databases.
+
+
+## Course topics | 3 things I’d like to learn more about
+
+1. Databases, I wish I could have attended all the lectures on databases.
+2. Shiny apps. They're so cool, I hope I plan to explore them further in the future
+3. Tidy data
+
+## {data-background=img/rv_thompson.jpeg data-background-size=cover}
+
+
